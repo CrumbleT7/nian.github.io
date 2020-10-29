@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Welcome to the Git Web ;)
+Welcome to the Git Web ;) 嗨～
 
 ### Markdown
 
